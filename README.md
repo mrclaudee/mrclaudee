@@ -45,7 +45,7 @@
 ## 🎭 Projets Highlights
 
 ### 🤡 [Hello From Verbose Java](https://github.com/mrclaudee/hello-from-verbose-java)
-Le "Hello World" le plus over-engineered possible avec ExecutorService et Future. Troll pédagogique viral !
+Le "Hello World" le plus over-engineered possible avec ExecutorService et Future. Troll pédagogique !
 
 ### 💬 [Chat Server Multi-threadé](https://github.com/mrclaudee/real-time-chat-system)
 Serveur de chat avec sockets TCP/IP, broadcasting en temps réel et gestion concurrente des clients
