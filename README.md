@@ -80,7 +80,7 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
 ✅ **Tests & qualité** - parce que "ça marche sur ma machine" ne suffit pas  
 ✅ **Apprentissage continu** - la tech évolue, moi aussi  
 ✅ **Partage des connaissances** - rendre la programmation accessible et fun
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/claude-fotso">
