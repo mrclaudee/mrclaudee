@@ -97,8 +97,6 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
   </a>
 </p>
 
----
-
 <p align="center">
   <i>💻 "Le code parfait n'existe pas, mais on peut s'amuser à le chercher !"</i>
   <br><br>
