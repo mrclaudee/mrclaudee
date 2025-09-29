@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Claude !
 
-🎯 **Ingénieur logiciel** qui transforme le café en code (et parfois en over-engineering hilarant 😄)  
+🎯 **Ingénieur logiciel** qui transforme les idées en code (et parfois en over-engineering hilarant 😄)  
 💡 Spécialisé dans le **développement full-stack** : bureau, web, mobile - je construis des apps complètes de A à Z  
 🚀 Passionné par l'**architecture logicielle**, les **choix technologiques** et le **déploiement propre**  
 🎮 Créateur de contenu technique avec une touche d'humour - parce que coder doit rester fun !
@@ -48,10 +48,10 @@
 ### 🤡 [Hello From Verbose Java](https://github.com/mrclaudee/hello-from-verbose-java)
 Le "Hello World" le plus over-engineered possible avec ExecutorService et Future. Troll pédagogique viral !
 
-### 💬 Chat Server Multi-threadé
+### 💬 [Chat Server Multi-threadé](https://github.com/mrclaudee/real-time-chat-system)
 Serveur de chat avec sockets TCP/IP, broadcasting en temps réel et gestion concurrente des clients
 
-### 🌐 Web Server Multi-threadé
+### 🌐 [Web Server Multi-threadé](https://github.com/mrclaudee/multithreaded-web-server)
 Serveur HTTP avec pool de threads, parsing de requêtes et réponses standardisées
 
 ### ⚡ Systèmes Concurrents
