@@ -7,6 +7,7 @@
 
 > 💭 *"Maîtriser une techno, c'est aussi savoir quand ne PAS l'utiliser"* - Philosophie tirée de mon [Hello World over-engineered](https://github.com/mrclaudee/hello-from-verbose-java)
 
+<br>
 
 ## 🎯 Ce que je fais actuellement
 
@@ -15,6 +16,7 @@
 📚 Apprentissage continu : Nouvelles architectures, patterns avancés, optimisations  
 ✍️ Partage de connaissances sur LinkedIn avec humour et pédagogie
 
+<br>
 
 ## 🛠️ Ma Stack Technique
 
@@ -38,7 +40,7 @@
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
+<br>
 
 ## 🎭 Projets Highlights
 
@@ -55,7 +57,7 @@ Serveur HTTP avec pool de threads, parsing de requêtes et réponses standardis�
 Producer-Consumer pattern, StampedLock banking system, optimisations de performance
 
 > 🔍 *Explore mes repos pour voir du code propre, commenté, et parfois volontairement ridicule !*
-
+<br>
 
 ## 📈 GitHub Stats
 
@@ -69,7 +71,7 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
 </p>
 
 ![Visiteurs](https://komarev.com/ghpvc/?username=mrclaudee&label=Curieux%20passés%20par%20ici&color=blueviolet&style=flat-square)
-
+<br>
 
 ## 💡 Ma philosophie de code
 
@@ -78,7 +80,7 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
 ✅ **Tests & qualité** - parce que "ça marche sur ma machine" ne suffit pas  
 ✅ **Apprentissage continu** - la tech évolue, moi aussi  
 ✅ **Partage des connaissances** - rendre la programmation accessible et fun
-
+<br>
 
 ## 🤝 On connecte ?
 
