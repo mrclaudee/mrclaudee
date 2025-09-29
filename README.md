@@ -82,8 +82,6 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
 ✅ **Partage des connaissances** - rendre la programmation accessible et fun
 <br>
 
-## 🤝 On connecte ?
-
 <p align="center">
   <a href="https://www.linkedin.com/in/claude-fotso">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
