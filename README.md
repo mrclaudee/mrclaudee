@@ -3,7 +3,6 @@
 🎯 **Ingénieur logiciel** qui transforme les idées en code (et parfois en over-engineering hilarant 😄)  
 💡 Spécialisé dans le **développement full-stack** : bureau, web, mobile - je construis des apps complètes de A à Z  
 🚀 Passionné par l'**architecture logicielle**, les **choix technologiques** et le **déploiement propre**  
-🎮 Créateur de contenu technique avec une touche d'humour - parce que coder doit rester fun !
 
 > 💭 *"Maîtriser une techno, c'est aussi savoir quand ne PAS l'utiliser"* - Philosophie tirée de mon [Hello World over-engineered](https://github.com/mrclaudee/hello-from-verbose-java)
 
@@ -11,7 +10,6 @@
 
 ## 🎯 Ce que je fais actuellement
 
-🔥 **Série "Java Quest"** - Démystifier Java du niveau débutant au ninja, de manière ludique et interactive  
 🛠️ Projets perso : Chat servers, web servers multi-threadés, systèmes concurrents  
 📚 Apprentissage continu : Nouvelles architectures, patterns avancés, optimisations  
 ✍️ Partage de connaissances sur LinkedIn avec humour et pédagogie
