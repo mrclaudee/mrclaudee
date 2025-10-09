@@ -66,10 +66,6 @@ Producer-Consumer pattern, StampedLock banking system, optimisations de performa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrclaudee&layout=compact&theme=tokyonight&hide_border=true" alt="langs" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrclaudee&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
 ![Visiteurs](https://komarev.com/ghpvc/?username=mrclaudee&label=Curieux%20passés%20par%20ici&color=blueviolet&style=flat-square)
 <br>
 
